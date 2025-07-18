@@ -1,7 +1,7 @@
 # diagram
 ```mermaid
 flowchart TD
-A[Генерация идеи<br/>PM, Delivery] --> B[Описание<br/>(Industrial Analyst)]
+A[Генерация идеи<br/>PM, Delivery] --> B[Описание<br/>Industrial Analyst]
 B --> C[Структурирование и создание ТЗ<br/>(SA)]
 C --> D[Ревью ТЗ<br/>TechLead, Senior SA]
 D --> E[Создание задачи в бэклог<br/>SA]
